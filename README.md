@@ -9,7 +9,7 @@ United Kingdom (UK)</h1>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://t.me/hexority" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="hexfa" height="30" width="40" /></a>
+<a href="https://t.me/hexor1234" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="hexfa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dehdarian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-dehdarian-fallah" height="30" width="40" /></a>
 </p>
 
