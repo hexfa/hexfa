@@ -1,5 +1,4 @@
-<h1 align="center" style="color: black;">Hi 👋, I'm Amir Dehdarian Fallah 🤠</br>
-United Kingdom (UK)</h1>
+<h1 align="center" style="color: black;">Hi 👋, I'm Amir Dehdarian Fallah 🤠</br></h1>
 <img align="right" alt="coding" width="400" src="https://github.com/hexfa/hexfa/blob/main/programmer.gif?raw=true"/>
 <h3>With over 12 years of experience in mobile app development, I am a motivated Android and Flutter developer who enjoys building cutting-edge, user-centric solutions. I am passionate about exploring new technologies, collaborating on innovative projects, and pushing the limits of what’s possible in the World of app development.</h3>
 
