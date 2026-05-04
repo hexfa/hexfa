@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-<img src="https://github.com/hexfa/hexfa/blob/2c313df2336a1e3944f6dbe691ce7dffbfc81255/wizard.gif" width="170" alt="Cute wizard sticker" />
+<img src="https://github.com/hexfa/hexfa/blob/2c313df2336a1e3944f6dbe691ce7dffbfc81255/wizard.gif" width="270" alt="Cute wizard sticker" />
 
 <h1>Hi, I'm Amir Dehdarian Fallah</h1>
 
