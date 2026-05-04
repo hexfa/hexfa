@@ -4,6 +4,7 @@
 -->
 
 <div align="center">
+<img src="https://github.com/hexfa/hexfa/blob/2c313df2336a1e3944f6dbe691ce7dffbfc81255/wizard.gif" width="170" alt="Cute wizard sticker" />
 
 <h1>Hi, I'm Amir Dehdarian Fallah</h1>
 
@@ -23,7 +24,6 @@ Senior Android & Flutter Developer | Security & Network Enthusiast | Self-hosted
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hexfa&label=Profile%20Views&color=7F5AF0&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Mobile-Android%20%2B%20Flutter-2CB67D?style=for-the-badge" alt="Mobile" />
   <img src="https://img.shields.io/badge/Security-Network%20%2B%20AppSec-FF8906?style=for-the-badge" alt="Security" />
   <img src="https://img.shields.io/badge/AI-Self--Hosted%20LLMs-00D4FF?style=for-the-badge" alt="Self-hosted AI" />
