@@ -9,7 +9,7 @@
 <h1>Hi, I'm Amir Dehdarian Fallah</h1>
 
 <h3>
-Senior Android & Flutter Developer | Security & Network Enthusiast | Self-hosted AI Builder
+Senior Android & Flutter Developer | Security & Network | Self-hosted AI Builder
 </h3>
 
 </div>
