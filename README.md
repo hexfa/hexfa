@@ -151,7 +151,7 @@ Secure API Design  •  Authentication  •  Network Layer Hardening
 Token Management   •  Request Signing •  Debugging & Monitoring
 Privacy Awareness  •  Clean Architecture with Security in Mind
 ```
-<img align="center" src="https://raw.githubusercontent.com/hexfa/hexfa/a6157ca54d13fdf003c5c7cd97b299bc395ff213/snake.svg" alt="Amir Dehdarian Fallah" />
+<img align="center" src="https://raw.githubusercontent.com/hexfa/hexfa/output/snake.svg" alt="Amir Dehdarian Fallah" />
 
 
 
