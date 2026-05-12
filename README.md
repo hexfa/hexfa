@@ -65,6 +65,7 @@ I’m also actively working with **self-hosted AI models and local AI tools** to
 
 <br clear="right"/>
 
+<img align="center" src="https://raw.githubusercontent.com/hexfa/hexfa/output/snake.svg" alt="Amir Dehdarian Fallah" />
 ---
 
 ## What I Do Best
@@ -151,7 +152,7 @@ Secure API Design  •  Authentication  •  Network Layer Hardening
 Token Management   •  Request Signing •  Debugging & Monitoring
 Privacy Awareness  •  Clean Architecture with Security in Mind
 ```
-<img align="center" src="https://raw.githubusercontent.com/hexfa/hexfa/output/snake.svg" alt="Amir Dehdarian Fallah" />
+
 
 
 
